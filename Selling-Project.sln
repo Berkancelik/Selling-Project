@@ -24,7 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{D8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Base", "src\BuildingBlocks\EventBus\EventBus.Base\EventBus.Base.csproj", "{4EEE0801-BE47-4230-821E-3CF8B001D39E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenBus.Factory", "src\BuildingBlocks\EventBus\EvenBus.Factory\EvenBus.Factory.csproj", "{4BA36F34-AC80-4F83-B76C-18294BEF4EE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Factory", "src\BuildingBlocks\EventBus\EvenBus.Factory\EventBus.Factory.csproj", "{4BA36F34-AC80-4F83-B76C-18294BEF4EE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.AzureServiceBus", "src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\EventBus.AzureServiceBus.csproj", "{DC6AC9D8-693C-467D-BD91-C9B11A7212C3}"
 EndProject
